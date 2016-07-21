@@ -1,0 +1,128 @@
+/*#canvas{
+	 position: absolute;
+    left: 0;
+    bottom: 50%;
+    width: 1em;
+    height: 1em;
+    border-radius: 0.5em;
+    z-index: 9;
+    background: green;
+}
+
+.canvasholder {
+    position: relative;
+    padding-top: 10px;
+}*/
+
+.box-teal h4{
+	font-size: 20px;
+}
+.box-teal h2{
+	margin-bottom: 0px !important;
+}
+
+.hire_beer span{
+	font-size: 16px;
+}
+
+.portfolio-taxonomy-item figure{
+	    border: 1px solid rgba(0,0,0,0.05);
+}
+
+.portfolio-taxonomy-item{
+	margin-bottom: 30px !important; 
+     padding-bottom: 30px !important; 
+     border-bottom: #eee 0px solid !important; 
+}
+
+.who_am_i_holder ul i{
+	font-size: 40px;
+}
+
+.who_am_i_holder ul.social-icons a {
+     color: #179BD7; 
+    text-decoration: none;
+}
+
+.who_am_i_holder ul.social-icons li {
+    
+    padding: 10px 30px;
+}
+
+.hire_me_holder div.heading-title {
+    position: relative;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.aboutme-sidebar .furthermore_section{
+    padding: 10px;
+    font-size: 14px;
+    text-align: center;
+}
+.aboutme-menu{
+    margin-top: 20px;
+}
+.aboutme-menu .list-group-item:first-child {
+    border-top: 0px !important;
+    
+}
+
+.aboutme_content_section .heading-title h4{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.aboutme_content_section .heading-title .experience-date-locale{
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.aboutme_content_section .heading-title .experience-date-locale{
+    border-top: rgba(0,0,0,0.1) 1px solid;
+}
+.about-me-summary p {
+    line-height: 29px !important;
+   /* padding: 20px;*/
+   padding-bottom: 20px;
+}
+.aboutme-sections-tab{
+    padding-top: 20px;
+}
+.aboutme-sections-tab .nav{
+    padding-bottom: 20px;
+}
+.logo h1 {
+    font-size: 36px;
+    padding-top: 24px;
+}
+.fixed .logo h1 {
+    font-size: 20px;
+    padding-top: 13px;
+}
+
+section.page-header {
+    padding: 35px !important;
+}
+.portfolio_holder {
+    background: none !important;
+    
+}
+.page-header.page-header-xs ul.page-header-tabs{
+    margin-top: 0px !important;
+}
+.about-me-summary span {
+ font-size: 70px;
+ float: left; 
+color: #D4D4C7;
+ line-height: 35px;
+ padding-top: 3px; 
+ padding-right: 3px;
+ font-family: Times, serif, Georgia;
+}
+
+.aboutme-sidebar .btn.btn-reveal.btn-xlg{
+    width: 100%;
+}
